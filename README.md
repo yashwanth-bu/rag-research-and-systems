@@ -55,8 +55,6 @@ Explore the planned projects, implementations, and research topics in the [RAG R
 
 ```
 rag-research-and-systems/
-│
-
 ├── traditional-rag/
 ├── advanced-rag/
 ├── knowledge-representation/
